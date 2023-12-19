@@ -1,6 +1,6 @@
 # Pizza-Store-Analysis
 
-Here I have taken the dataset from kaggle and made meaningful indights from the dataset.
+Here I have taken the dataset from kaggle and made meaningful insights from the dataset.
 I have tranformed data and used DAX queries as well.
 Goals related to DataSet and some information for that is added below:
 
